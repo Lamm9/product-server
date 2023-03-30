@@ -6,10 +6,10 @@ This app is used to manipulate a database containing products, each belonging to
 
 ## Table of Contents
 
-- [Usage](#usage),
-- [Installation](#installation),
-- [Credits](#credits),
-- [License](#license),
+- [Usage](#usage)
+- [Installation](#installation)
+- [Credits](#credits)
+- [License](#license)
 
 ## Usage 
 
